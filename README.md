@@ -9,3 +9,4 @@ En este curso vemos de todo
 * Tema 1
 * Tema 2
 * Tema 3
+* Creado por el increíble Platzi Team
