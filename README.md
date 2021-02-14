@@ -10,3 +10,5 @@ En este curso vemos de todo
 * Tema 2
 * Tema 3
 * Creado por el increíble Platzi Team
+* Incluye ejemplos en Windows
+* Disponible para todas las edades
